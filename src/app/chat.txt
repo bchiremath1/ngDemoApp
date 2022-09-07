@@ -1,0 +1,8 @@
+NgxEchartsModule.forRoot({
+      echarts,
+    })
+
+NgxEchartsModule.forRoot({
+       echarts: { init: echarts.init }
+  })
+

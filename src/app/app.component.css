@@ -1,0 +1,12 @@
+div {
+  text-align: center;
+}
+
+.tooltip_item {
+  font-weight: 600;
+}
+
+#chart-container div {
+  width: 200px;
+  height: 200px;
+}
